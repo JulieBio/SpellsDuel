@@ -2487,3 +2487,4 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 # spellsduel.github.io
 # juliebio_spellsduel.github.io
 # spellsDuel
+# spellsDuel
