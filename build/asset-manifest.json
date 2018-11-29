@@ -1,6 +1,15 @@
 {
-  "main.css": "static/css/main.9e058d1a.css",
-  "main.css.map": "static/css/main.9e058d1a.css.map",
-  "main.js": "static/js/main.13aea178.js",
-  "main.js.map": "static/js/main.13aea178.js.map"
+  "main.css": "/juliebio_spellsduel.github.io/static/css/main.89e993ef.chunk.css",
+  "main.js": "/juliebio_spellsduel.github.io/static/js/main.ab18a33e.chunk.js",
+  "main.js.map": "/juliebio_spellsduel.github.io/static/js/main.ab18a33e.chunk.js.map",
+  "static/css/1.2f34c7ca.chunk.css": "/juliebio_spellsduel.github.io/static/css/1.2f34c7ca.chunk.css",
+  "static/js/1.7131e063.chunk.js": "/juliebio_spellsduel.github.io/static/js/1.7131e063.chunk.js",
+  "static/js/1.7131e063.chunk.js.map": "/juliebio_spellsduel.github.io/static/js/1.7131e063.chunk.js.map",
+  "runtime~main.js": "/juliebio_spellsduel.github.io/static/js/runtime~main.8434f823.js",
+  "runtime~main.js.map": "/juliebio_spellsduel.github.io/static/js/runtime~main.8434f823.js.map",
+  "static/css/1.2f34c7ca.chunk.css.map": "/juliebio_spellsduel.github.io/static/css/1.2f34c7ca.chunk.css.map",
+  "static/css/main.89e993ef.chunk.css.map": "/juliebio_spellsduel.github.io/static/css/main.89e993ef.chunk.css.map",
+  "index.html": "/juliebio_spellsduel.github.io/index.html",
+  "precache-manifest.fdd91a4ca2f9480ad463965dce062a00.js": "/juliebio_spellsduel.github.io/precache-manifest.fdd91a4ca2f9480ad463965dce062a00.js",
+  "service-worker.js": "/juliebio_spellsduel.github.io/service-worker.js"
 }
