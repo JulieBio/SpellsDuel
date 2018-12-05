@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/spellsduel/precache-manifest.cdef66899bc00015d8c8dff89f389423.js"
+  "/spellsDuel/precache-manifest.79dcb2b1444b62d1f347895bfb1ad471.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/spellsduel/index.html", {
+workbox.routing.registerNavigationRoute("/spellsDuel/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
